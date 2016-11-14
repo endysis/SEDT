@@ -1,12 +1,8 @@
 Close all saved tabs
 	https://github.com/notepad-plus-plus/notepad-plus-plus/issues/2500
-Low quality icons on high def monitors
-	https://github.com/notepad-plus-plus/notepad-plus-plus/issues/2466
-Visible Zoom Level
-	https://github.com/notepad-plus-plus/notepad-plus-plus/issues/2388
+
 Coloured tabs
 	https://github.com/notepad-plus-plus/notepad-plus-plus/issues/2271
-Multi monitor and Search Window
-	https://github.com/notepad-plus-plus/notepad-plus-plus/issues/2058
+
 Save all Message box
 	https://github.com/notepad-plus-plus/notepad-plus-plus/issues/2124
